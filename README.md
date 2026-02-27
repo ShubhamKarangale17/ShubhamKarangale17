@@ -84,6 +84,16 @@ Developed a modular REST API automation framework for end-to-end workflow valida
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKarangale17&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity&cache_seconds=3600" />
 </p>
 
+ 
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamKarangale17/ShubhamKarangale17/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 # 🌐 Connect With Me
