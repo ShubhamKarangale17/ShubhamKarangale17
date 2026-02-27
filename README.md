@@ -1,67 +1,71 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,50:99f2c8,100:1f4037&height=250&section=header&text=Shubham%20Karangale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Manual%20%26%20Automation%20Tester&descSize=18&descAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Manual+Testing+Specialist;Selenium+WebDriver+(Java);API+Automation+with+RestAssured;CI%2FCD+Testing+Enthusiast;Quality+Driven+Software+Delivery" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shubham%20Karangale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20Selenium%20Automation%20|%20API%20Testing&descSize=18&descAlignY=60" />
 </p>
 
 ---
 
 # 👋 About Me
 
-I am a **QA Engineer** focused on delivering high-quality, scalable, and production-ready software.  
-I specialize in **Manual Testing and Automation Testing using Selenium WebDriver (Java, POM)** and API automation with RestAssured.
+QA Engineer specializing in **Automation Framework Development and API Testing**.
 
-- 🔭 Currently building Automation Frameworks  
-- 🌱 Exploring advanced CI/CD & Test Architecture  
-- 👯 Open to collaboration on QA & Automation projects  
-- 💬 Ask me about Selenium, API Testing, SDLC, STLC & Defect Life Cycle  
-- ⚡ Strong analytical mindset with leadership experience  
+I design scalable and maintainable test architectures using **Selenium WebDriver (Java, POM)** and build structured API automation frameworks with **RestAssured + TestNG**.
+
+With strong fundamentals in **SDLC, STLC, and Defect Life Cycle**, I focus on improving test stability, reducing regression effort, and ensuring reliable software delivery.
+
+Currently working on:
+- Framework architecture optimization  
+- CI/CD pipeline integration  
+- Test maintainability & execution efficiency  
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Core Projects
 
 ## 🔹 Selenium Automation Framework
-- Java + Selenium WebDriver + Page Object Model  
-- Functional & Regression Automation  
-- Explicit waits & Failure screenshots  
-- Git version control integration  
 
-## 🔹 API Automation Framework
-- RestAssured + TestNG + Maven  
-- End-to-end REST API automation  
-- Modular framework design  
-- CI/CD integration using GitHub Actions  
+Designed and implemented a scalable automation framework to streamline regression testing and improve execution stability.
 
-> Built with performance, maintainability, and reliability in mind.
+**Key Highlights**
+- Structured Page Object Model architecture  
+- Explicit wait strategy for reliable execution  
+- Automatic failure screenshot capture  
+- Git-based version control integration  
 
 ---
 
-# 🛠 Tech Stack
+## 🔹 API Automation Framework
 
-### 🧪 Testing & Automation
+Developed a modular REST API automation framework for end-to-end workflow validation.
+
+**Key Highlights**
+- Built using RestAssured, TestNG, Maven  
+- Automated login, create, update & retrieval flows  
+- Modular and reusable test structure  
+- CI/CD integration using GitHub Actions  
+
+---
+
+# 🛠 Technical Skills
+
+### Testing & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F?style=for-the-badge)
 ![TestNG](https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 💻 Programming
+### Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗄 Database
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShubhamKarangale17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -72,11 +76,15 @@ I specialize in **Manual Testing and Automation Testing using Selenium WebDriver
   <img src="https://streak-stats.demolab.com?user=ShubhamKarangale17&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
 # 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKarangale17&theme=tokyo-night&area=true&hide_border=true&custom_title=Shubham%20Karangale's%20Contribution%20Graph&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamKarangale17&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity&cache_seconds=3600" />
 </p>
+
+---
 
 # 🌐 Connect With Me
 
@@ -88,10 +96,4 @@ I specialize in **Manual Testing and Automation Testing using Selenium WebDriver
 <a href="mailto:shubhamkarangale44@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ShubhamKarangale17&icon=5&color=6" />
 </p>
